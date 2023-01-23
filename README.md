@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Sirius1616
 - 👀 I’m interested in ML and AI
+- 🌱 I’m currently learning Full Stack Software Engineering
 - 🌱 I’m currently learning ML and Data analysis
 - 💞️ I’m looking to collaborate on ML challenge
 - 📫 How to reach me siriusa1.615@gmail.com
