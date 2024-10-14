@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sirius1616
+- 👋 Hi, I’m John Omokhagbon Ezekiel
 - 👀 I’m interested in ML and AI
 - 🌱 I’m currently learning Full Stack Software Engineering
 - 🌱 I’m currently learning ML and Data analysis
