@@ -1,11 +1,49 @@
-- 👋 Hi, I’m John Omokhagbon Ezekiel
-- 👀 I’m interested in ML and AI
-- 🌱 I’m currently learning Full Stack Software Engineering
-- 🌱 I’m currently learning ML and Data analysis
-- 💞️ I’m looking to collaborate on ML challenge
-- 📫 How to reach me siriusa1.615@gmail.com or https://www.linkedin.com/in/john-ezekiel-0458a71b3/
+<h1 align="center">
+  👋 Hi, I’m <span style="color: #0078D7;">John Omokhagbon Ezekiel</span>
+</h1>
 
-<!---
-Sirius1616/Sirius1616 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <p>
+    <strong>Cloud Engineering Student | Data Scientist | Machine Learning Engineer | Junior Backend Developer</strong>
+  </p>
+  <p>
+    <em>Exploring Python, Azure Cloud, Seaborn, Pandas, and everything data!</em>
+  </p>
+</div>
+
+<div style="text-align: center; animation: slide-in 3s ease-in-out;">
+  <h3>⚡ What I’m Up To ⚡</h3>
+  <ul style="list-style-type: none;">
+    <li>🌱 Learning <strong>Cloud Engineering</strong> and <strong>Full Stack Software Development</strong>.</li>
+    <li>🤖 Building <strong>Machine Learning</strong> and <strong>AI</strong> solutions.</li>
+    <li>🛠️ Enhancing backend systems with Python and Azure Cloud.</li>
+  </ul>
+</div>
+
+<h3 align="center">📬 Reach Out to Me</h3>
+<div align="center">
+  <a href="mailto:siriusa1.615@gmail.com">📧 Email Me</a> | 
+  <a href="https://www.linkedin.com/in/john-ezekiel-0458a71b3/">🔗 Connect on LinkedIn</a>
+</div>
+
+<!-- Add a rolling animation -->
+<div align="center" style="margin-top: 30px;">
+  <marquee behavior="scroll" direction="left" style="color: #0078D7;">
+    🚀 Exploring innovative solutions one line of code at a time! 🚀
+  </marquee>
+</div>
+
+<!-- Add CSS for animations -->
+<style>
+  @keyframes slide-in {
+    from {
+      transform: translateX(-100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+</style>
+
