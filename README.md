@@ -4,7 +4,7 @@
 
 <div align="center">
   <p>
-    <strong>Cloud Engineering Student | Data Scientist | Machine Learning Engineer | Junior Backend Developer</strong>
+    <strong>Cloud Engineer | Data Scientist | Machine Learning Engineer | Backend Developer</strong>
   </p>
   <p>
     <em>Exploring Python, Azure Cloud, Seaborn, Pandas, and everything data!</em>
