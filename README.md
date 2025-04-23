@@ -14,7 +14,7 @@
 <div style="text-align: center; animation: slide-in 3s ease-in-out;">
   <h3>⚡ What I’m Up To ⚡</h3>
   <ul style="list-style-type: none;">
-    <li>🌱 Learning <strong>Cloud Engineering</strong> and <strong>Full Stack Software Development</strong>.</li>
+    <li>🌱 <strong>Cloud Engineering</strong> and <strong>Full Stack Software Development</strong>.</li>
     <li>🤖 Building <strong>Machine Learning</strong> and <strong>AI</strong> solutions.</li>
     <li>🛠️ Enhancing backend systems with Python and Azure Cloud.</li>
   </ul>
