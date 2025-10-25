@@ -4,10 +4,10 @@
 
 <div align="center">
   <p>
-    <strong>Cloud Engineer | Data Scientist | Machine Learning Engineer | Backend Developer</strong>
+    Python Developer | Backend & API Engineer | DevOps Specialist | IT Support</strong>
   </p>
   <p>
-    <em>Exploring Python, Azure Cloud, Seaborn, Pandas, and everything data!</em>
+    <em>Exploring Python, API designs, DevOps, Azure Cloud, and everything IT support!</em>
   </p>
 </div>
 
