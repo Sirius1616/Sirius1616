@@ -23,7 +23,7 @@
 <h3 align="center">📬 Reach Out to Me</h3>
 <div align="center">
   <a href="mailto:siriusa1.615@gmail.com">📧 Email Me</a> | 
-  <a href="https://www.linkedin.com/in/john-ezekiel-0458a71b3/">🔗 Connect on LinkedIn</a>
+  <a href="https://www.linkedin.com/in/john-ezekiel-coren/">🔗 Connect on LinkedIn</a>
 </div>
 
 <!-- Add a rolling animation -->
