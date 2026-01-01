@@ -4,7 +4,7 @@
 
 <div align="center">
   <p>
-    Python Developer | Backend & API Engineer | DevOps Specialist | IT Support</strong>
+    Python Developer | Backend & API Engineer | Workflow Automation Specialist | IT Support</strong>
   </p>
   <p>
     <em>Exploring Python, API designs, DevOps, Azure Cloud, and everything IT support!</em>
