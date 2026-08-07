@@ -4,7 +4,7 @@
 
 <div align="center">
   <p>
-    Python Developer | Backend & API Engineer | IT Support</strong>
+    Backend Engineer | Python, FastAPI, Linux | Application Security | AI Programming</strong>
   </p>
   <p>
     <em>Exploring Python, API designs, DevOps, Azure Cloud, and everything IT support!</em>
